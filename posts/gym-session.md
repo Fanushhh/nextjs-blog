@@ -1,6 +1,6 @@
 ---
-title: 'Today's gym session'
-date: '2020-04-26'
+title: "Today's gym session"
+date: '2023-04-26'
 ---
 
 Today's gym session has been very productive but also quite exhausting. In this blog post I'll dive into some details about my experience without gettin into much details but still expressing my thoughts on various aspects of the gym life.
